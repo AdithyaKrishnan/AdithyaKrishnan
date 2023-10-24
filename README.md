@@ -10,7 +10,7 @@
 
 <br><br>
 - 👋 Hi, I’m @AdithyaKrishnan
--  I work as a Senior SOftware System Designer at AMD
+- 👨‍💻 I work as a Senior Software System Designer at AMD
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Opensource and other meaningful projects
